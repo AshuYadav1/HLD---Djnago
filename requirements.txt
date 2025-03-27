@@ -1,0 +1,14 @@
+# requirements.txt
+Django==4.2.11
+celery==5.3.6
+amqp==5.1.1
+billiard==4.1.0
+kombu==5.3.4
+vine==5.1.0
+redis==5.0.1
+asgiref==3.8.1
+sqlparse==0.5.3
+click==8.1.7
+python-dateutil==2.9.0.post0
+pytz==2024.1
+certifi==2024.2.2

@@ -1,0 +1,6 @@
+echo "venv/
+*.pyc
+__pycache__/
+.env
+*.sqlite3
+.DS_Store" > .gitignore
